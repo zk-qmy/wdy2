@@ -38,12 +38,16 @@
    * Organize website information into **separate blocks**.
    * Identical blocks can be arranged **horizontally** to create layouts such as news cards or columns. 
 ---
-# Intial
+# Practice File
 `index.html`
 
 # Practice
-* Change <p> to <div> for container
-* Set size for object
+* Change `<p>` to `<div>` for container
+Copy file `index.html` then practice
+
+
+* Set size for object (Controlling size)
+
 Example:
 ```
 .img_center {
@@ -90,3 +94,5 @@ width: 350px;
 
 }
 ```
+* Practice using `float: left` and `float: right`
+Create columns/horizontal cards
